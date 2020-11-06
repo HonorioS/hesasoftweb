@@ -55,3 +55,19 @@ body {
     margin-left: auto;
     display: flex;
 }
+
+.box-content {
+    height: 1400px;
+    background: #E6E6E6;
+}
+
+.footer-copyright p {
+    font-style: italic;
+    font-weight: lighter;
+}
+
+.footer-copyright {
+    text-align: center;
+    border-top: thin solid #2E9AFE;
+    color: black;
+}
