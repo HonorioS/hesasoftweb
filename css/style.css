@@ -18,7 +18,7 @@ body {
     font-weight: bolder;
 }
 
-.navbar {
+.main_nav {
     border-bottom: thin solid #2E9AFE;
 }
 
@@ -28,7 +28,19 @@ body {
 .menu-category {
     margin-top: 64px;
     height: 60px;
-    background: #E6E6E6;
+    background: #585858;
     display: flex;
     text-justify: center;
+}
+
+.categ_item {
+    font-weight: bold;
+    margin: auto;
+    font-size: 12px;
+    /* margin-left: 12px; */
+}
+
+.categ_item li a:hover {
+    border-bottom: thin solid #2E9AFE;
+    border-top: thin solid #2E9AFE;
 }
