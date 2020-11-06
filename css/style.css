@@ -24,3 +24,10 @@ body {
 
 
 /* .category_menu {} */
+
+.menu-category {
+    margin-top: 64px;
+    height: 60px;
+    background: #E6E6E6;
+    display: flex;
+}
