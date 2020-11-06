@@ -46,3 +46,12 @@ body {
     border-bottom: thin solid #2E9AFE;
     border-top: thin solid #2E9AFE;
 }
+
+.box-social-network {
+    height: 600px;
+    width: 80px;
+    background: #2E9AFE;
+    margin-top: auto;
+    margin-left: auto;
+    display: flex;
+}
