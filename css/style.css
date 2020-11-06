@@ -30,4 +30,5 @@ body {
     height: 60px;
     background: #E6E6E6;
     display: flex;
+    text-justify: center;
 }
