@@ -15,11 +15,13 @@ body {
 }
 
 .navbar .collapse .box-firts-menu a {
-    font-weight: bolder;
+    font-weight: bold;
+    font-size: 12px;
 }
 
 .main_nav {
     border-bottom: thin solid #2E9AFE;
+    font-weight: bold;
 }
 
 
