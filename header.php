@@ -24,10 +24,40 @@
 
 <body>
 
-     <nav class="box-firtsMenu"> 
+    <!--  MENU PRINCIPAL  "FIRTS MENU" -->
+
+    <nav class="navbar navbar-expand-lg  fixed-top navbar-light bg-light">
+        <a class="navbar-brand" href="#"><img src="./logo/tempLogo.png" width="60" height="40"></a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+            <div class="navbar-nav box-firts-menu">
+                <a class="nav-item nav-link active text-primary" href="#"> <i class="fas fa-users "></i> Area de Clientes <span class="sr-only">(current)</span></a>
+                <a class="nav-item nav-link active text-primary" href="#"> <i class="fas fa-phone-volume "></i> Contactos rapidos</a>
+                <a class="nav-item nav-link active text-primary" href="#"> <i class="fas fa-laptop-code "></i> Projectos</a>
+                <a class="nav-item nav-link active text-primary" href="#"> <i class="fas fa-user-friends text-primary"></i> Team</a>
+            </div>
+
+            <div class="navbar-nav box-social">
+                <a class="nav-item nav-link active" href="#"><i class="fab fa-facebook-f text-primary"></i> facebook <span class="sr-only">(current)</span></a>
+                <a class="nav-item nav-link active" href="#"> <i class="fab fa-instagram  text-danger"></i> instagram</a>
+                <a class="nav-item nav-link active " href="#"> <i class="fab fa-twitter text-primary"></i> twiter</a>
+            </div>
+        </div>
 
 
-     </nav>
+    </nav>
+
+
+    <!--   SECOND MENU   "CATEGORY MENU" -->
+
+    <nav class="navbar navbar-expand-lg fixed-bottom   navbar-light bg-light category_menu">
+        <div class="container">
+            <a class="navbar-brand" href="#">Navbar</a>
+        </div>
+    </nav>
 
 
 </body>

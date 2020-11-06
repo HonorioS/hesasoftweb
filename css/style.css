@@ -5,4 +5,34 @@ body {
     font-family: 'Courier New', Courier, monospace;
 }
 
-.box-firtsMenu {}
+.box-social {
+    margin-left: auto;
+}
+
+.box-social a {
+    font-style: italic;
+    font-weight: lighter;
+}
+
+
+/* .box-firts-menu a { */
+
+
+/*     font-weight: bolder; */
+
+
+/*     color: #2E9AFE; */
+
+
+/* } */
+
+.navbar .collapse .box-firts-menu a {
+    font-weight: bolder;
+}
+
+.navbar {
+    border-bottom: thin solid #2E9AFE;
+}
+
+
+/* .category_menu {} */
