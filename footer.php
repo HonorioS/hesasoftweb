@@ -8,7 +8,7 @@
             <div class="row py-4 d-flex align-items-center" >
 
                 <!-- Grid column -->
-                <div class="col-md-6 col-lg-5 text-center text-md-left mb-4 mb-md-0">
+                <div class="col-md-6 col-lg-5 text-center text-md-left mb-4 mb-md-0 text-white footer_text">
                     <h6 class="mb-0">segue-nos nas redes socias para ver nossos projectos </h6>
                 </div>
                 <!-- Grid column -->
@@ -130,13 +130,13 @@
                 <h6 class="text-uppercase font-weight-bold">Contact</h6>
                 <hr class="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
                 <p>
-                    <i class="fas fa-home mr-3"></i> New York, NY 10012, US</p>
+                    <i class="fas fa-home mr-3"></i> Zaventem,  1932, BE</p>
                 <p>
-                    <i class="fas fa-envelope mr-3"></i> info@example.com</p>
+                    <i class="fas fa-envelope mr-3"></i> info@hesasoft.com</p>
                 <p>
-                    <i class="fas fa-phone mr-3"></i> + 01 234 567 88</p>
+                    <i class="fas fa-phone mr-3"></i>  +351 932310832</p>
                 <p>
-                    <i class="fas fa-print mr-3"></i> + 01 234 567 89</p>
+                    <i class="fas fa-print mr-3"></i> + 32 0466 49 84 45</p>
 
             </div>
             <!-- Grid column -->

@@ -30,7 +30,6 @@ body {
 .menu-category {
     margin-top: 64px;
     height: 60px;
-    background: #585858;
     display: flex;
     text-justify: center;
 }
@@ -63,7 +62,7 @@ body {
 
 .footer-copyright p {
     font-style: italic;
-    font-weight: lighter;
+    font-weight: normal;
 }
 
 .footer-copyright {
@@ -71,3 +70,65 @@ body {
     border-top: thin solid #2E9AFE;
     color: black;
 }
+
+.footer_text {
+    font-style: italic;
+    font-weight: normal;
+}
+
+
+/*  area de client */
+
+.box-cl {
+    border: 1px solid;
+    padding: 10px;
+}
+
+.box-item-client {
+    display: flex;
+    background: #2E9AFE;
+    height: 40px;
+}
+
+#aba_call {
+    border-right: black thin solid;
+    height: 40px;
+}
+
+.form-header h5 {
+    text-align: center;
+    color: black;
+    border-bottom: #D8D8D8 thin solid;
+    width: 240px;
+}
+
+.form-header {
+    text-align: center;
+}
+
+.aba_item {
+    font-weight: bold;
+}
+
+.aba_item:hover {
+    border-top: #2E9AFE thin solid;
+}
+
+#home {
+    margin-top: 30px;
+    margin-left: 12px;
+}
+
+#home h4 {
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+
+/* #home-tab:hover { */
+
+
+/*     border-top: #2E9AFE thin solid; */
+
+
+/* } */
